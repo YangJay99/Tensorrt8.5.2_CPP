@@ -10,15 +10,15 @@ Tensorrt版本：8.5.2
 
 
 
+一.编译命令
+
 ```
 mkdir build&cd build
 cmake ../
 make
 ```
 
-
-
-运行程序
+二. 运行程序
 
 ```
 ./trt_infer_app <engine_path>
