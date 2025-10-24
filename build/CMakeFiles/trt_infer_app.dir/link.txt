@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trt_infer_app.dir/main.cpp.o  -o trt_infer_app  -Wl,-rpath,/mnt/yjy/share/trt_test/trt_inference/build/src:/usr/local/cuda/lib64: src/libtrt_inference.so /usr/lib/aarch64-linux-gnu/libnvinfer.so /usr/local/cuda/lib64/libcudart.so 

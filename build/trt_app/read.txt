@@ -1,0 +1,2 @@
+# 运行命令
+./trt_infer_app <engine_path>

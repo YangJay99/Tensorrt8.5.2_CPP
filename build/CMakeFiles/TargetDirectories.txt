@@ -1,0 +1,14 @@
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/install/strip.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/install/local.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/edit_cache.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/install.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/list_install_components.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/rebuild_cache.dir
+/mnt/yjy/share/trt_test/trt_inference/build/CMakeFiles/trt_infer_app.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/install/local.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/install.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/list_install_components.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/edit_cache.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/install/strip.dir
+/mnt/yjy/share/trt_test/trt_inference/build/src/CMakeFiles/trt_inference.dir
